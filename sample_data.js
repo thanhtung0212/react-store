@@ -3,7 +3,8 @@ const {default: config} = require('./config');
 let data = {
   homeBanner: [
     {
-      image: 'http://intelvue.com/demo/app-template/light/main-banner.jpg',
+      image:
+        'https://thietke6d.com/wp-content/uploads/2021/05/banner-quang-cao-giay-6.png',
     },
     {
       image: 'http://intelvue.com/demo/app-template/dark/main-banner.jpg',
@@ -12,22 +13,25 @@ let data = {
   brands: [
     {
       name: 'Top',
-      image: 'https://intelvue.com/demo/app-template/light/Coat.png',
+      image:
+        'https://static.dosi-in.com/images/news_content/18411/2020/06/25/behind-the-hype-nike-va-swoosh-y-nghia-logo-va-cau-chuyen-chua-tung-ke_2020_06_25_0.jpg',
       id: 1,
     },
     {
       name: 'Bottom',
-      image: 'https://intelvue.com/demo/app-template/light/Dresses.png',
+      image: 'https://www.inlogo.vn/vnt_upload/File/Image/3_l.png',
       id: 2,
     },
     {
       name: 'Bottom',
-      image: 'https://intelvue.com/demo/app-template/light/Jewellery.png',
+      image:
+        'https://static.dosi-in.com/images/news_content/18411/2020/06/25/behind-the-hype-nike-va-swoosh-y-nghia-logo-va-cau-chuyen-chua-tung-ke_2020_06_25_0.jpg',
       id: 3,
     },
     {
       name: 'Bottom',
-      image: 'https://intelvue.com/demo/app-template/light/Gentlemen.png',
+      image:
+        'https://printgo.vn/uploads/media/774255/logo-hang-giay-air-jordan_1587013736.jpg',
       id: 4,
     },
   ],
